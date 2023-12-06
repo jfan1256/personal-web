@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/personal-web/static/css/main.4a002dc5.css",
+    "main.js": "/personal-web/static/js/main.0b8d2eb7.js",
+    "static/js/787.19d93843.chunk.js": "/personal-web/static/js/787.19d93843.chunk.js",
+    "static/media/stat.jpg": "/personal-web/static/media/stat.9ef46a14a066be5498d8.jpg",
+    "static/media/self-portrait.jpeg": "/personal-web/static/media/self-portrait.08c6b439425d550f83a1.jpeg",
+    "static/media/hawaii.jpg": "/personal-web/static/media/hawaii.fa8b4f01a0bfc5a63d3f.jpg",
+    "static/media/header-img.svg": "/personal-web/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/stock.jpg": "/personal-web/static/media/stock.1e3a21d617d515d682c0.jpg",
+    "static/media/nlp.jpg": "/personal-web/static/media/nlp.a77d39bb0ca146445beb.jpg",
+    "static/media/CentraNo2-Bold.ttf": "/personal-web/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/personal-web/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/personal-web/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/ims_start.png": "/personal-web/static/media/ims_start.e77f6d4752b7a2a7c236.png",
+    "static/media/ml_strat.png": "/personal-web/static/media/ml_strat.0624fd474e81b6f0bc5e.png",
+    "static/media/contact-img.svg": "/personal-web/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/coding-svg-clipart.svg": "/personal-web/static/media/coding-svg-clipart.c7dc2b641f32384d893b1b120d4a7e69.svg",
+    "static/media/presentation.png": "/personal-web/static/media/presentation.4e19437bff192b2ef76c.png",
+    "static/media/github.png": "/personal-web/static/media/github.987334e9f782cc505f25.png",
+    "static/media/revicons.eot": "/personal-web/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/personal-web/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/building.png": "/personal-web/static/media/building.eb0b111f4af9320c9282.png",
+    "static/media/revicons.woff": "/personal-web/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/research.svg": "/personal-web/static/media/research.4dfd52504c1db2b10644edb3c51d5fdf.svg",
+    "static/media/nav-icon3.svg": "/personal-web/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "index.html": "/personal-web/index.html",
+    "static/media/nav-icon1.svg": "/personal-web/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "main.4a002dc5.css.map": "/personal-web/static/css/main.4a002dc5.css.map",
+    "main.0b8d2eb7.js.map": "/personal-web/static/js/main.0b8d2eb7.js.map",
+    "787.19d93843.chunk.js.map": "/personal-web/static/js/787.19d93843.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a002dc5.css",
+    "static/js/main.0b8d2eb7.js"
+  ]
+}
