@@ -8,14 +8,11 @@ export const Content_Projects = () => {
             <Container>
                 <div className="divider"></div>
                 <Row>
-                    <Col xs={12} className="text-center">
+                    <Col xs={12} md={5} xl={3}>
                         <h1>AlgoFacto Hedge Fund 📈</h1>
                         <p className="subtitle">(Can't think of a name right now)</p>
-                        <hr className="title-underline" />
                     </Col>
-                </Row>
-                <Row>
-                    <Col xs={12} md={6} xl={5} className="add-space-paragraph left-column add-right">
+                    <Col xs={12} md={6} xl={7} className="left-column">
                         <p className="bold">
                             Okay, hear me out...
                         </p>
@@ -53,7 +50,7 @@ export const Content_Projects = () => {
                         </p>
                         <a href={`${process.env.PUBLIC_URL}/hedge_fund_plan.pdf`} target="_blank" rel="noopener noreferrer" className='link'>View Company Proposal</a>
                     </Col>
-                    <Col xs={12} md={6} xl={5} className="add-space text-center">
+                    <Col xs={12} md={12} xl={3} className="image-center">
                         <h5 className="text-center">ML Strategy Performance</h5>
                         <img src={ml_strat} alt=""/>
                         <h5 className="text-center add-space-paragraph">IMS Strategy Performance</h5>
@@ -61,14 +58,11 @@ export const Content_Projects = () => {
                     </Col>
                 </Row>
                 <Row className="add-space-row">
-                    <Col xs={12} className="text-center">
+                    <Col xs={12} md={5} xl={3}>
                         <h1>Breeze 🤖</h1>
                         <p className="subtitle">(Also can't think of a name right now)</p>
-                        <hr className="title-underline" />
                     </Col>
-                </Row>
-                <Row>
-                    <Col xs={12} md={6} xl={6} className="add-space-paragraph left-column">
+                    <Col xs={12} md={6} xl={7} className="add-space-paragraph left-column">
                         <p className="bold">
                             I can't really leak too much information on this so I'll keep it short...
                         </p>

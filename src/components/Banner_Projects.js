@@ -5,8 +5,8 @@ export const Banner_Projects = () => {
     return (
         <section className="banner-projects" id="home">
             <Container>
-                <Row className="justify-content-md-center text-left">
-                    <Col xs={12} md={6} xl={7}>
+                <Row className="align-items-center">
+                    <Col xs={12} md={6} xl={6}>
                         <img className='portrait-img' src={selfPortrait} alt={"Portrait Img"}/>
                         <h1><span className="blink">Build</span>{` It.`}</h1>
                         <p>In that phase of trying to see what I'm trying to do with my life. I've been designing, researching, and executing my own

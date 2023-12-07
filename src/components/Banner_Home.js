@@ -44,7 +44,7 @@ export const Banner_Home = () => {
         <section className="banner" id="home">
             <Container>
                 <Row className="align-items-center">
-                    <Col xs={12} md={6} xl={7}>
+                    <Col xs={12} md={6} xl={6}>
                         <img className='portrait-img' src={selfPortrait} alt={"Portrait Img"}/>
                         <h1>{`Hi 🚨, I'm Jonathan Fan: `}<span className="wrap">{text}</span><span className="blink">|</span></h1>
                         <p>I'm an avid researcher 🎧💻🖱️ in asset pricing, financial machine learning, and risk management. Who knows? Maybe even a start-up. And, I love weightlifting 🏋️,

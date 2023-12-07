@@ -1,22 +1,22 @@
 /************ Banner_Projects Css ************/
 .banner-projects {
   margin-top: 0;
-  padding: 9.375rem 7rem 10rem;
+  padding: 9rem 0 17rem;
   background-color: #E6FAFF;
 }
 .banner-projects h1 {
   color: #303030;
-  font-size: 2.0rem;
+  font-size: 1.75rem;
   font-weight: 700;
-  letter-spacing: 0.01rem;
+  letter-spacing: 0.001rem;
   line-height: 1.3;
   margin-bottom: 2rem;
   display: block;
 }
 .banner-projects p {
   color: #505050;
-  font-size: 0.85rem;
-  letter-spacing: 0.01rem;
+  font-size: 0.80rem;
+  letter-spacing: 0.001rem;
   line-height: 1.5em;
   width: 100%;
 }
@@ -26,15 +26,14 @@
 .banner-projects .portrait-img {
   border-radius: 50%;
   object-fit: cover;
-  width: 4rem;
-  height: 4rem;
+  width: 3rem;
+  height: 3rem;
   margin-bottom: 2rem;
 }
 .banner-projects .banner-img {
-  height: 20rem;
-  width: 20rem;
+  height: 18rem;
+  width: 18rem;
   animation: scale 5s linear infinite;
-  margin-top: 5rem;
 }
 @keyframes scale {
     0% {
@@ -63,30 +62,20 @@
 /************ Content CSS ************/
 .content-projects {
   margin-top: 0;
-  padding: 1rem 7rem 17rem;
+  padding: 1rem 0 17rem;
   background-color: #E6FAFF;
-}
-.content-projects .tagline {
-  font-weight: 700;
-  letter-spacing: 0.8px;
-  padding: 8px 10px;
-  font-size: 20px;
-  margin-bottom: 16px;
-  display: inline-block;
 }
 .content-projects h1 {
   color: #303030;
-  font-size: 1.2rem;
+  font-size: 1rem;
   font-weight: 700;
-  letter-spacing: 0.05rem;
+  letter-spacing: 0.001rem;
   line-height: 1;
-  margin-bottom: 0.25rem;
-  display: block;
 }
 .content-projects .subtitle {
-  font-size: 0.8rem;
+  font-size: 0.65rem;
   color: #505050;
-  margin: 0 auto 0.8rem;
+  margin-bottom: 1.50rem;
 }
 .content-projects .title-underline {
   width: 15%;
@@ -96,7 +85,7 @@
 .content-projects .left-column {
     border-left: 1px solid rgba(204, 204, 204, 0.3);
     padding-left: 2rem;
-    margin-left: 1rem;
+    margin-bottom: 4rem;
 }
 .content-projects .add-space-paragraph {
   margin-top: 2.5rem;
@@ -135,9 +124,9 @@
 }
 .content-projects h5 {
   color: #303030;
-  font-size: 0.85rem;
+  font-size: 0.80rem;
   font-weight: 700;
-  letter-spacing: 0.01rem;
+  letter-spacing: 0.001rem;
   line-height: 1.5;
   margin-bottom: 0.1rem;
   display: block;
@@ -145,19 +134,19 @@
 }
 .content-projects p {
   color: #505050;
-  font-size: 0.85rem;
-  letter-spacing: 0.01rem;
+  font-size: 0.80rem;
+  letter-spacing: 0.001rem;
   line-height: 1.5em;
-  width: 100%;
+  width: 90%;
   opacity: 80%;
-  margin-top: 10px;
+  margin-top: 0.5rem;
 }
 .content-projects .link {
   display: block;
   margin-bottom: 0.5rem;
   color: lightskyblue;
-  font-size: 0.85rem;
-  letter-spacing: 0.01rem;
+  font-size: 0.80rem;
+  letter-spacing: 0.001rem;
   line-height: 1.5em;
   width: 100%;
   margin-top: 1rem;
