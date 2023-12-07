@@ -12,7 +12,7 @@ export const Content_Projects = () => {
                         <h1>AlgoFacto Hedge Fund 📈</h1>
                         <p className="subtitle">(Can't think of a name right now)</p>
                     </Col>
-                    <Col xs={12} md={6} xl={7} className="left-column">
+                    <Col xs={12} md={6} xl={5} className="left-column">
                         <p className="bold">
                             Okay, hear me out...
                         </p>
@@ -62,7 +62,7 @@ export const Content_Projects = () => {
                         <h1>Breeze 🤖</h1>
                         <p className="subtitle">(Also can't think of a name right now)</p>
                     </Col>
-                    <Col xs={12} md={6} xl={7} className="add-space-paragraph left-column">
+                    <Col xs={12} md={6} xl={6} className="add-space-paragraph left-column">
                         <p className="bold">
                             I can't really leak too much information on this so I'll keep it short...
                         </p>

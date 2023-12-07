@@ -12,7 +12,7 @@ function Home() {
         <NavBar />
         <Banner_Home />
         <Skills />
-        <Contact />
+        {/*<Contact />*/}
         <Footer />
     </div>
   );
