@@ -547,7 +547,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   transition: 0.3s ease-in-out;
 }
 /* Media query for iPhone screen sizes */
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 576px) {
   .contact form input,
   .contact form textarea {
     width: 80%;
