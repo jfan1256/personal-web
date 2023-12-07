@@ -1,0 +1,150 @@
+/************ Banner CSS ************/
+.banner-learning {
+  margin-top: 0;
+  padding: 9rem 5rem 10rem;
+  background-color: #E6FAFF;
+}
+.banner-learning .bold {
+    font-weight: 700;
+}
+.banner-learning h1 {
+  color: #303030;
+  font-size: 2.0rem;
+  font-weight: 700;
+  letter-spacing: 0.01rem;
+  line-height: 1.3;
+  margin-bottom: 2rem;
+  display: block;
+}
+.banner-learning p {
+  color: #505050;
+  font-size: 0.85rem;
+  letter-spacing: 0.01rem;
+  line-height: 1.5em;
+  width: 100%;
+}
+.banner-learning .portrait-img {
+  border-radius: 50%;
+  object-fit: cover;
+  width: 4rem;
+  height: 4rem;
+  margin-bottom: 2rem;
+}
+.banner-learning .banner-img {
+  height: 20rem;
+  width: 20rem;
+  animation: sidetoside 5s linear infinite;
+  margin-top: 5rem;
+}
+@keyframes sidetoside {
+    0% {
+        transform: translateX(-40px);
+    }
+    50% {
+        transform: translateX(-20px);
+    }
+    100% {
+        transform: translateX(-40px);
+    }
+}
+.txt-rotate > .wrap {
+  border-right: 0.08em solid #666;
+}
+@keyframes blink {
+  0% { opacity: 0; }
+  25% { opacity: 1; }
+  75% { opacity: 1; }
+  100% { opacity: 0; }
+}
+.banner-learning .blink {
+  animation: blink 2s linear infinite;
+  color: black;
+}
+/************ Content CSS ************/
+.content-learning {
+  margin-top: 0;
+  padding: 1rem 7rem 17rem;
+  background-color: #E6FAFF;
+}
+.left-column.custom-spacing {
+    margin-right: 3rem;
+}
+.content-learning .left-column {
+    border-left: 1px solid rgba(204, 204, 204, 0.3);
+    padding-left: 2rem;
+    margin-bottom: 4rem;
+}
+.content-learning .add-space-paragraph {
+  margin-top: 2.5rem;
+}
+.content-learning .add-space {
+  margin-top: 10rem;
+}
+.content-learning .add-space-row {
+  margin-top: 15rem;
+}
+.content-learning .bold {
+  font-weight: 700;
+}
+.content-learning img {
+  border-radius: 1.5rem;
+  height: 10rem;
+  width: 20rem;
+  opacity: 80%  ;
+  animation: updown 5s linear infinite;
+}
+@keyframes updown {
+    0% {
+        transform: translateY(-10px);
+    }
+    50% {
+        transform: translateY(10px);
+    }
+    100% {
+        transform: translateY(-10px);
+    }
+}
+.content-learning h4 {
+  color: #303030;
+  font-size: 1.75rem;
+  font-weight: 400;
+  letter-spacing: 0.01rem;
+  line-height: 1;
+  margin-bottom: 1rem;
+  display: block;
+  margin-top: 0.5rem;
+  opacity: 30%
+}
+.content-learning h5 {
+  color: #303030;
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 0.01rem;
+  line-height: 1.5;
+  margin-bottom: 2rem;
+  display: block;
+  margin-top: 0.5rem;
+}
+.content-learning p {
+  color: #505050;
+  font-size: 0.85rem;
+  letter-spacing: 0.01rem;
+  line-height: 1.5em;
+  width: 100%;
+  opacity: 80%;
+  margin-top: 0.5rem;
+}
+.content-learning .image-center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.content-learning .divider {
+  height: 1px;
+  width: 80%;
+  background-color: #B6B6B6;
+  opacity: 0.15;
+  position: relative;
+  margin: 6rem auto;
+}
+
