@@ -51,7 +51,7 @@ export const Banner_Home = () => {
                             learning 📖, and video editing 📹.</p>
                         <p className="space">If you'd like, checkout the other pages on this site to see what I'm up too. A lot of it is just me blurbing about what I'm doing as a sanity check for myself. </p>
                         <p className="space">Here is my&nbsp;
-                        <a href={`${process.env.PUBLIC_URL}/resume_jofan.pdf`} className='link' target="_blank" rel="noopener noreferrer">
+                        <a href={`${process.env.PUBLIC_URL}/resume_jonathanfan.pdf`} className='link' target="_blank" rel="noopener noreferrer">
                             resume
                         </a>
                             &nbsp;📡
